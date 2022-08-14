@@ -1,0 +1,1 @@
+printf "0x%08x\n" `cat /sys/MCP23018/MCP23018_data/u32INTCAP`

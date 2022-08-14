@@ -1,0 +1,1 @@
+cmd_/home/pi/MCP23018_driver/MCP23018_22/modules.order := {   echo /home/pi/MCP23018_driver/MCP23018_22/lkm_MCP23018_22.ko; :; } | awk '!x[$$0]++' - > /home/pi/MCP23018_driver/MCP23018_22/modules.order

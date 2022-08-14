@@ -1,0 +1,1 @@
+cmd_/home/pi/MCP23018_driver/MCP23018_22/lkm_MCP23018_22.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/MCP23018_driver/MCP23018_22/lkm_MCP23018_22.ko /home/pi/MCP23018_driver/MCP23018_22/lkm_MCP23018_22.o /home/pi/MCP23018_driver/MCP23018_22/lkm_MCP23018_22.mod.o;  true

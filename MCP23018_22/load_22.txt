@@ -1,0 +1,1 @@
+sudo insmod lkm_MCP23018_22.ko nRST_pin=6 irqA_pin=5 irqB_pin=13
